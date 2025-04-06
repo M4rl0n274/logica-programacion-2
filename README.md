@@ -1,4 +1,4 @@
-# Lógica de Programación 2 - Conversión de Temperatura 🌡️
+# Lógica de Programación 2 - Conversión de Temperatura 
 
 Este repositorio contiene la solución a un ejercicio de lógica de programación utilizando **JavaScript**, enfocado en la conversión de temperaturas y la validación de datos de entrada.
 
@@ -32,7 +32,7 @@ Puedes ver y probar el programa en funcionamiento a través del siguiente enlace
 
 🔗 [https://m4rl0n274.github.io/logica-programacion-2/](https://m4rl0n274.github.io/logica-programacion-2/)
 
-## 🛠️ Tecnologías Utilizadas
+##  Tecnologías Utilizadas
 
 - HTML5  
 - CSS3  
